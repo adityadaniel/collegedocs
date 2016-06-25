@@ -1,0 +1,14 @@
+{
+    "docs": [
+        {
+            "location": "/", 
+            "text": "Welcome to My Personal Repository\n\n\nThis is docs I built for college material and more.", 
+            "title": "Home"
+        }, 
+        {
+            "location": "/#welcome-to-my-personal-repository", 
+            "text": "This is docs I built for college material and more.", 
+            "title": "Welcome to My Personal Repository"
+        }
+    ]
+}

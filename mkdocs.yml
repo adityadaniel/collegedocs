@@ -1,0 +1,6 @@
+site_name: Personal College Docs
+
+pages:
+- Home: index.md
+
+theme: readthedocs
